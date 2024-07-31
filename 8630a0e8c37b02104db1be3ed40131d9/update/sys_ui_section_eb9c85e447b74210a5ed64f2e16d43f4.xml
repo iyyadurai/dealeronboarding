@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:22:07</sys_created_on>
-            <sys_id>824ecde047f74210a5ed64f2e16d4370</sys_id>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4a65d1ec473b4210a5ed64f2e16d436e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:22:07</sys_updated_on>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>template_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:22:07</sys_created_on>
-            <sys_id>0a4ecde047f74210a5ed64f2e16d4370</sys_id>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4a65d1ec473b4210a5ed64f2e16d43ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:22:07</sys_updated_on>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:22:07</sys_created_on>
-            <sys_id>424e412447f74210a5ed64f2e16d433d</sys_id>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4265d1ec473b4210a5ed64f2e16d43ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:22:07</sys_updated_on>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -46,27 +46,13 @@
             <element>task_type</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:22:07</sys_created_on>
-            <sys_id>c64e412447f74210a5ed64f2e16d433d</sys_id>
+            <sys_created_on>2024-07-31 09:53:15</sys_created_on>
+            <sys_id>4a65d1ec473b4210a5ed64f2e16d43ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:22:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>html_template</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:22:07</sys_created_on>
-            <sys_id>4e4e412447f74210a5ed64f2e16d433d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_dealer_template" sys_domain="global" view="Default view">eb9c85e447b74210a5ed64f2e16d43f4</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:22:07</sys_updated_on>
+            <sys_updated_on>2024-07-31 09:53:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
