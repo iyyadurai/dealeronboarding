@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>69d8a06cc3bb02104db1be3ed401315a</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>211ab4a4c37f02104db1be3ed4013120</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,209 +18,209 @@
             <element>city</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>edd8a06cc3bb02104db1be3ed401315a</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>611ab4a4c37f02104db1be3ed401312d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name_surname</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>a9d8a06cc3bb02104db1be3ed4013180</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>city_of_birth</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>21d8a06cc3bb02104db1be3ed4013181</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date_of_birth</element>
-            <position>4</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>a5d8a06cc3bb02104db1be3ed4013181</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>e51ab4a4c37f02104db1be3ed401312d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fiscal_code</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>2dd8a06cc3bb02104db1be3ed4013181</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ext_company_name</element>
-            <position>6</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>a1d8a06cc3bb02104db1be3ed4013182</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>6d1ab4a4c37f02104db1be3ed401312d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>company_address</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>29d8a06cc3bb02104db1be3ed4013182</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>add8a06cc3bb02104db1be3ed4013182</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>company_city</element>
-            <position>9</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>25d8a06cc3bb02104db1be3ed4013183</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>e11ab4a4c37f02104db1be3ed401312e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>vat_number</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>a9d8a06cc3bb02104db1be3ed4013183</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>the_economic_and_administrative_index_rea</element>
-            <position>11</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>21d8a06cc3bb02104db1be3ed4013184</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>691ab4a4c37f02104db1be3ed401312e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>list_of_sales_lcv_brands</element>
-            <position>12</position>
+            <element>fiscal_code</element>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>a5d8a06cc3bb02104db1be3ed4013184</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>ed1ab4a4c37f02104db1be3ed401312e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>list_of_sales_pcdv_brands</element>
-            <position>13</position>
+            <element>.split</element>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>2dd8a06cc3bb02104db1be3ed4013184</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>651ab4a4c37f02104db1be3ed401312f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name_surname</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>e91ab4a4c37f02104db1be3ed401312f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>list_of_aftersales_spare_parts_brands</element>
-            <position>14</position>
+            <element>city_of_birth</element>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>a1d8a06cc3bb02104db1be3ed4013185</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>611ab4a4c37f02104db1be3ed4013130</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>area_manager</element>
-            <position>15</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 06:38:31</sys_created_on>
-            <sys_id>29d8a06cc3bb02104db1be3ed4013185</sys_id>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>e51ab4a4c37f02104db1be3ed4013130</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 06:38:31</sys_updated_on>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company_address</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>6d1ab4a4c37f02104db1be3ed4013130</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vat_number</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>e11ab4a4c37f02104db1be3ed4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>list_of_sales_lcv_brands</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>691ab4a4c37f02104db1be3ed4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>list_of_sales_pcdv_brands</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>ed1ab4a4c37f02104db1be3ed4013131</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>list_of_aftersales_spare_parts_brands</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 07:53:53</sys_created_on>
+            <sys_id>651ab4a4c37f02104db1be3ed4013132</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1459983_dealer_0_letter_requesting_mandate" sys_domain="global" view="Default view">f1c3aca0c3bb02104db1be3ed401313f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 07:53:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
