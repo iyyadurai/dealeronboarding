@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="4b9c452847b74210a5ed64f2e16d43fa" label="Dealer Template" max_length="40" name="x_1459983_dealer_0_dealer_template" type="collection">
-        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="HTML Template" max_length="8000" name="html_template" type="html"/>
-        <element label="Task Type" max_length="40" name="task_type" type="string"/>
-        <element label="Template Name" max_length="40" name="template_name" type="string"/>
-    </element>
-</database>

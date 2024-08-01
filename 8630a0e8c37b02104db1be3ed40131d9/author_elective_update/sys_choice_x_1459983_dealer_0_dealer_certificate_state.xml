@@ -20,76 +20,38 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Open</label>
-            <language>en</language>
-            <name>x_1459983_dealer_0_dealer_certificate</name>
-            <sequence>0</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:27:05</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:27:05</sys_updated_on>
-            <value>Open</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Pending</label>
-            <language>en</language>
-            <name>x_1459983_dealer_0_dealer_certificate</name>
-            <sequence>1</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:27:05</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:27:05</sys_updated_on>
-            <value>Pending</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Work in Progress</label>
-            <language>en</language>
-            <name>x_1459983_dealer_0_dealer_certificate</name>
-            <sequence>2</sequence>
-            <synonyms/>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:27:05</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:27:05</sys_updated_on>
-            <value>Work in Progress</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>state</element>
-            <hint/>
-            <inactive>false</inactive>
             <label>Closed Completed</label>
             <language>en</language>
             <name>x_1459983_dealer_0_dealer_certificate</name>
-            <sequence>3</sequence>
+            <sequence/>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:27:05</sys_created_on>
+            <sys_created_on>2024-07-31 11:51:48</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:27:05</sys_updated_on>
+            <sys_updated_on>2024-07-31 11:51:48</sys_updated_on>
             <value>Closed Completed</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Inprogress</label>
+            <language>en</language>
+            <name>x_1459983_dealer_0_dealer_certificate</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 11:52:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 11:52:39</sys_updated_on>
+            <value>Closed Inprogress</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -99,15 +61,15 @@
             <label>Closed Skipped</label>
             <language>en</language>
             <name>x_1459983_dealer_0_dealer_certificate</name>
-            <sequence>4</sequence>
+            <sequence/>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:27:05</sys_created_on>
+            <sys_created_on>2024-07-31 11:53:10</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:27:05</sys_updated_on>
+            <sys_updated_on>2024-07-31 11:53:10</sys_updated_on>
             <value>Closed Skipped</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -115,19 +77,38 @@
             <element>state</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Closed Incomplete</label>
+            <label>Open</label>
             <language>en</language>
             <name>x_1459983_dealer_0_dealer_certificate</name>
-            <sequence>5</sequence>
+            <sequence/>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-07-31 09:27:05</sys_created_on>
+            <sys_created_on>2024-07-31 11:49:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-07-31 09:27:05</sys_updated_on>
-            <value>Closed Incomplete</value>
+            <sys_updated_on>2024-07-31 11:49:41</sys_updated_on>
+            <value>Open</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in progress</label>
+            <language>en</language>
+            <name>x_1459983_dealer_0_dealer_certificate</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-31 11:50:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-31 11:50:24</sys_updated_on>
+            <value>Work in progress</value>
         </sys_choice>
     </sys_choice>
 </record_update>
