@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_1459983_dealer_0_letter_requesting_mandate">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="surname" table="x_1459983_dealer_0_letter_requesting_mandate">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Dealer Id</column_label>
+        <column_label>Surname</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -21,7 +26,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>number</element>
+        <element>surname</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -46,12 +51,12 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-31 06:16:24</sys_created_on>
-        <sys_name>Dealer Id</sys_name>
+        <sys_created_on>2024-08-02 10:28:55</sys_created_on>
+        <sys_name>Surname</sys_name>
         <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
-        <sys_update_name>sys_dictionary_x_1459983_dealer_0_letter_requesting_mandate_number</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1459983_dealer_0_letter_requesting_mandate_surname</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-08-02 10:30:37</sys_updated_on>
         <table_reference>false</table_reference>
