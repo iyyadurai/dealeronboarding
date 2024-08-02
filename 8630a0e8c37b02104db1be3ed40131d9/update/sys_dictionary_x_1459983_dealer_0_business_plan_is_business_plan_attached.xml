@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="number" table="x_1459983_dealer_0_business_plan">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="is_business_plan_attached" table="x_1459983_dealer_0_business_plan">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation/>
-        <choice>0</choice>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Order No</column_label>
+        <column_label>Is Business Plan Attached</column_label>
         <comments/>
         <create_roles/>
-        <default_value>javascript:global.getNextObjNumberPadded();</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -21,14 +26,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>number</element>
+        <element>is_business_plan_attached</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
+        <internal_type display_value="">boolean</internal_type>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_1459983_dealer_0_business_plan</name>
         <next_element/>
@@ -46,14 +51,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-31 06:37:29</sys_created_on>
-        <sys_name>Order No</sys_name>
+        <sys_created_on>2024-08-01 09:07:45</sys_created_on>
+        <sys_name>Is Business Plan Attached</sys_name>
         <sys_package display_value="Dealer Onboarding" source="x_1459983_dealer_0">8630a0e8c37b02104db1be3ed40131d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Dealer Onboarding">8630a0e8c37b02104db1be3ed40131d9</sys_scope>
-        <sys_update_name>sys_dictionary_x_1459983_dealer_0_business_plan_number</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1459983_dealer_0_business_plan_is_business_plan_attached</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-08-02 04:36:28</sys_updated_on>
+        <sys_updated_on>2024-08-01 09:07:45</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
